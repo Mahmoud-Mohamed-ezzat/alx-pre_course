@@ -1,2 +1,2 @@
 this is my readme
-thi is edit 
+this is edit 
